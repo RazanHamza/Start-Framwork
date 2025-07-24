@@ -1,0 +1,37 @@
+.line {
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+
+.icon {
+    color: #2C3E50;
+}
+
+.color {
+    background-color: #1ABC9C;
+}
+.input:focus {
+    box-shadow: none;
+    border: .5px solid #000;
+      border-top: none;
+    border-right: none;
+    border-left: none;
+       border-radius: 10px;
+
+}
+.input{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: #000 solid .5;
+    border-radius: 10px;
+}
+.btncolor{
+    background-color: #1ABC9C;
+    color: #ffffff;
+}
+.labelActive {
+  color: #1ABC9C !important;
+  font-weight: bold;
+}

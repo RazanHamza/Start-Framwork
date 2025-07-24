@@ -1,0 +1,9 @@
+.line{
+    width:80px ;
+    height: 4px;
+    background-color:#ffffff;
+}
+.color{
+    background-color: #1ABC9C;
+    height: 90vh;
+}

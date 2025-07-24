@@ -1,0 +1,23 @@
+.color{
+    background-color: #2C3E50;
+}
+.color2{
+    background-color: #10171d;
+    height: 70px;
+
+}
+.tcolor{
+    color: #ffffff;
+
+}
+.icons{
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    border: solid .02px;
+    border-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
