@@ -37,7 +37,7 @@ const Navbar = () => {
                     ? 'nav-link fw-bold text-black bg-white rounded '
                     : 'nav-link fw-bold text-white'
                 }
-                to="/"
+                to="/about"
               >
                 ABOUT
               </NavLink>
